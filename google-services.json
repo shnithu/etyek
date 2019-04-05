@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "860280172907",
+    "firebase_url": "https://gero-a0109.firebaseio.com",
+    "project_id": "gero-a0109",
+    "storage_bucket": "gero-a0109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860280172907:android:a316ae51c70d6358",
+        "android_client_info": {
+          "package_name": "com.livepoint.gero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860280172907-23gbcnph1i58286bnhqigbgkeljng622.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4U2hJc3CgBE5znzrzGvaek3i4Yt5SOl0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
